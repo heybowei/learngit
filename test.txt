@@ -1,0 +1,1 @@
+this is a file to test whether i use git correctly or not.
